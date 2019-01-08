@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiver2_2018</string>
+    <string name="enable_receiver">Enable Receiver</string>
+    <string name="disable_receiver">Disable Receiver</string>
+</resources>
